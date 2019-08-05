@@ -1,11 +1,11 @@
 # SentimentAnalysis
 
-#The $objectives$ of this project are as below:-
+The *objectives* of this project are as below:-
 1. To pre-process and classify tweets into polarity.
 2. To determine the most appropriate algorithm in classifying tweets into polarity.
 3. To identify the users' perception towards public transportation.
 
-#The $methodology$ of this project are described as below:-
+The *methodology* of this project are described as below:-
 1. Data collection
 Data is extracted or crawled from Twitter.
 2. Data preprocessing
