@@ -10,10 +10,10 @@ options(shiny.trace=TRUE)
 n_tweets <- 180
 n_summary <- 10
 
-consumerKey <- "2UBI8oSyPNw4zAXQKwbvfMDXq"
-consumerSecret <- "DPVXAIfEogaB5UIEKHkA5WKadUDxnXYw9N3VMvUrEPuYQKvw4l"
-acessToken <- "1075043321335156738-j31rSvcAOlSYT0x1ZPhiq7Lq8RvyNM"
-accessTokenSecret <- "7OwcdPZMhdAxQeN3p06Z3dUjAGnZkWy05CbuZuPAyh0mZ"
+consumerKey <- "xxxx"
+consumerSecret <- "xxxx"
+acessToken <- "xxxx"
+accessTokenSecret <- "xxxx"
 setup_twitter_oauth(consumerKey, consumerSecret, acessToken, accessTokenSecret)
 
 shinyServer(function(input, output, session) {
